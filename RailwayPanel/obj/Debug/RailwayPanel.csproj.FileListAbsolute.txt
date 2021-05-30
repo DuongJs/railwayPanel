@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\RailwayPanel\RailwayPanel\RailwayPanel\bin\Debug\Database1.mdf
+C:\Users\User\Desktop\RailwayPanel\RailwayPanel\RailwayPanel\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\RailwayPanel\RailwayPanel\RailwayPanel\bin\Debug\RailwayPanel.exe.config
+C:\Users\User\Desktop\RailwayPanel\RailwayPanel\RailwayPanel\bin\Debug\RailwayPanel.exe
+C:\Users\User\Desktop\RailwayPanel\RailwayPanel\RailwayPanel\bin\Debug\RailwayPanel.pdb
+C:\Users\User\Desktop\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.Form1.resources
+C:\Users\User\Desktop\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.Properties.Resources.resources
+C:\Users\User\Desktop\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.exe
+C:\Users\User\Desktop\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.pdb
+C:\Users\User\Desktop\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.AboutBox1.resources
+C:\Users\User\Desktop\Лабы и тд\RailwayPanel\RailwayPanel\RailwayPanel\bin\Debug\Database1.mdf
+C:\Users\User\Desktop\Лабы и тд\RailwayPanel\RailwayPanel\RailwayPanel\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\Лабы и тд\RailwayPanel\RailwayPanel\RailwayPanel\bin\Debug\RailwayPanel.exe.config
+C:\Users\User\Desktop\Лабы и тд\RailwayPanel\RailwayPanel\RailwayPanel\bin\Debug\RailwayPanel.exe
+C:\Users\User\Desktop\Лабы и тд\RailwayPanel\RailwayPanel\RailwayPanel\bin\Debug\RailwayPanel.pdb
+C:\Users\User\Desktop\Лабы и тд\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лабы и тд\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.AboutBox1.resources
+C:\Users\User\Desktop\Лабы и тд\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.Form1.resources
+C:\Users\User\Desktop\Лабы и тд\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.Properties.Resources.resources
+C:\Users\User\Desktop\Лабы и тд\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Лабы и тд\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабы и тд\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.exe
+C:\Users\User\Desktop\Лабы и тд\RailwayPanel\RailwayPanel\RailwayPanel\obj\Debug\RailwayPanel.pdb
